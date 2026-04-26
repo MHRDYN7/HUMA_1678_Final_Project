@@ -1,0 +1,117 @@
+id,name,awardYear,origin,destination,is_migrant
+569,Sully Prudhomme,1901,France,France,FALSE
+571,Theodor Mommsen,1902,Germany,Germany,FALSE
+572,Bjørnstjerne Bjørnson,1903,Norway,Norway,FALSE
+573,Frédéric Mistral,1904,France,France,FALSE
+574,José Echegaray,1904,Spain,Spain,FALSE
+575,Henryk Sienkiewicz,1905,Poland,Poland,FALSE
+576,Giosuè Carducci,1906,Italy,Italy,FALSE
+577,Rudyard Kipling,1907,India,United Kingdom,TRUE
+578,Rudolf Eucken,1908,Germany,Germany,FALSE
+579,Selma Lagerlöf,1909,Sweden,Sweden,FALSE
+580,Paul Heyse,1910,Germany,Germany,FALSE
+581,Maurice Maeterlinck,1911,Belgium,Belgium,FALSE
+582,Gerhart Hauptmann,1912,Poland,Germany,TRUE
+583,Rabindranath Tagore,1913,India,India,FALSE
+584,Romain Rolland,1915,France,France,FALSE
+585,Verner von Heidenstam,1916,Sweden,Sweden,FALSE
+587,Henrik Pontoppidan,1917,Denmark,Denmark,FALSE
+586,Karl Gjellerup,1917,Denmark,Denmark,FALSE
+588,Carl Spitteler,1919,Switzerland,Switzerland,FALSE
+589,Knut Hamsun,1920,Norway,Norway,FALSE
+590,Anatole France,1921,France,France,FALSE
+592,Jacinto Benavente,1922,Spain,Spain,FALSE
+593,William Butler Yeats,1923,Ireland,Ireland,FALSE
+594,Wladyslaw Reymont,1924,Poland,Poland,FALSE
+596,George Bernard Shaw,1925,Ireland,United Kingdom,TRUE
+597,Grazia Deledda,1926,Italy,Italy,FALSE
+600,Henri Bergson,1927,France,France,FALSE
+601,Sigrid Undset,1928,Denmark,Norway,TRUE
+602,Thomas Mann,1929,Germany,Germany,FALSE
+603,Sinclair Lewis,1930,USA,USA,FALSE
+604,Erik Axel Karlfeldt,1931,Sweden,Sweden,FALSE
+605,John Galsworthy,1932,United Kingdom,United Kingdom,FALSE
+606,Ivan Bunin,1933,Russia,NA,FALSE
+607,Luigi Pirandello,1934,Italy,Italy,FALSE
+608,Eugene O'Neill,1936,USA,USA,FALSE
+609,Roger Martin du Gard,1937,France,France,FALSE
+610,Pearl Buck,1938,USA,USA,FALSE
+613,Frans Eemil Sillanpää,1939,Finland,Finland,FALSE
+614,Johannes V. Jensen,1944,Denmark,Denmark,FALSE
+615,Gabriela Mistral,1945,Chile,Chile,FALSE
+617,Hermann Hesse,1946,Germany,Switzerland,TRUE
+618,André Gide,1947,France,France,FALSE
+619,T.S. Eliot,1948,USA,United Kingdom,TRUE
+620,William Faulkner,1949,USA,USA,FALSE
+621,Bertrand Russell,1950,United Kingdom,United Kingdom,FALSE
+622,Pär Lagerkvist,1951,Sweden,Sweden,FALSE
+623,François Mauriac,1952,France,France,FALSE
+624,Winston Churchill,1953,United Kingdom,United Kingdom,FALSE
+625,Ernest Hemingway,1954,USA,USA,FALSE
+626,Halldór Laxness,1955,Iceland,Iceland,FALSE
+627,Juan Ramón Jiménez,1956,Spain,Spain,FALSE
+628,Albert Camus,1957,Algeria,France,TRUE
+629,Boris Pasternak,1958,Russia,USSR (now Russia),TRUE
+630,Salvatore Quasimodo,1959,Italy,Italy,FALSE
+631,Saint-John Perse,1960,Guadeloupe Island,France,TRUE
+633,Ivo Andric,1961,Bosnia and Herzegovina,Yugoslavia (now N/A),TRUE
+634,John Steinbeck,1962,USA,USA,FALSE
+635,Giorgos Seferis,1963,Turkey,Greece,TRUE
+637,Jean-Paul Sartre,1964,France,France,FALSE
+638,Mikhail Sholokhov,1965,Russia,USSR (now Russia),TRUE
+640,Nelly Sachs,1966,Germany,Sweden,TRUE
+639,Shmuel Agnon,1966,Ukraine,Israel,TRUE
+641,Miguel Angel Asturias,1967,Guatemala,Guatemala,FALSE
+642,Yasunari Kawabata,1968,Japan,Japan,FALSE
+643,Samuel Beckett,1969,Ireland,Ireland,FALSE
+644,Alexandr Solzhenitsyn,1970,Russia,USSR (now Russia),TRUE
+645,Pablo Neruda,1971,Chile,Chile,FALSE
+647,Heinrich Böll,1972,Germany,Germany,FALSE
+648,Patrick White,1973,United Kingdom,Australia,TRUE
+649,Eyvind Johnson,1974,Sweden,Sweden,FALSE
+650,Harry Martinson,1974,Sweden,Sweden,FALSE
+651,Eugenio Montale,1975,Italy,Italy,FALSE
+652,Saul Bellow,1976,Canada,USA,TRUE
+653,Vicente Aleixandre,1977,Spain,Spain,FALSE
+654,Isaac Bashevis Singer,1978,Poland,USA,TRUE
+655,Odysseus Elytis,1979,Greece,Greece,FALSE
+657,Czeslaw Milosz,1980,Lithuania,Poland,TRUE
+658,Elias Canetti,1981,Bulgaria,United Kingdom,TRUE
+659,Gabriel García Márquez,1982,Colombia,Mexico,TRUE
+660,William Golding,1983,United Kingdom,United Kingdom,FALSE
+661,Jaroslav Seifert,1984,Czech Republic,Czechoslovakia (now Czech Republic),TRUE
+662,Claude Simon,1985,Madagascar,France,TRUE
+663,Wole Soyinka,1986,Nigeria,Nigeria,FALSE
+664,Joseph Brodsky,1987,Russia,USA,TRUE
+665,Naguib Mahfouz,1988,Egypt,Egypt,FALSE
+666,Camilo José Cela,1989,Spain,Spain,FALSE
+667,Octavio Paz,1990,Mexico,Mexico,FALSE
+668,Nadine Gordimer,1991,South Africa,South Africa,FALSE
+669,Derek Walcott,1992,Saint Lucia,Saint Lucia,FALSE
+670,Toni Morrison,1993,USA,USA,FALSE
+671,Kenzaburo Oe,1994,Japan,Japan,FALSE
+672,Seamus Heaney,1995,Northern Ireland,Ireland,TRUE
+673,Wislawa Szymborska,1996,Poland,Poland,FALSE
+674,Dario Fo,1997,Italy,Italy,FALSE
+675,José Saramago,1998,Portugal,Portugal,FALSE
+676,Günter Grass,1999,Poland,Germany,TRUE
+734,Gao Xingjian,2000,China,France,TRUE
+747,V. S. Naipaul,2001,Trinidad and Tobago,United Kingdom,TRUE
+761,Imre Kertész,2002,Hungary,Hungary,FALSE
+763,J. M. Coetzee,2003,South Africa,South Africa,FALSE
+782,Elfriede Jelinek,2004,Austria,Austria,FALSE
+801,Harold Pinter,2005,United Kingdom,United Kingdom,FALSE
+808,Orhan Pamuk,2006,Turkey,Turkey,FALSE
+817,Doris Lessing,2007,Iran,United Kingdom,TRUE
+832,Jean-Marie Gustave Le Clézio,2008,France,France,FALSE
+844,Herta Müller,2009,Romania,Germany,TRUE
+854,Mario Vargas Llosa,2010,Peru,NA,FALSE
+868,Tomas Tranströmer,2011,Sweden,Sweden,FALSE
+880,Mo Yan,2012,China,China,FALSE
+892,Alice Munro,2013,Canada,Canada,FALSE
+912,Patrick Modiano,2014,France,France,FALSE
+924,Svetlana Alexievich,2015,Ukraine,Belarus,TRUE
+937,Bob Dylan,2016,USA,NA,FALSE
+947,Kazuo Ishiguro,2017,Japan,NA,FALSE
+979,Olga Tokarczuk,2018,Poland,"Wroclaw, Poland",TRUE
+980,Peter Handke,2019,Austria,"Chaville, France",TRUE

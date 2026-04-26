@@ -1,0 +1,158 @@
+city,birth_count,death_count,total_activity
+Paris,6,8,14
+London,2,7,9
+Madrid,2,5,7
+Stockholm,1,6,7
+Dublin,3,1,4
+"New York, NY",1,3,4
+Mexico City,1,2,3
+Rome,0,3,3
+Berlin,2,0,2
+Budapest,1,1,2
+Cairo,1,1,2
+Calcutta,1,1,2
+Lübeck,1,1,2
+Maillane,1,1,2
+Mårbacka,1,1,2
+Nice,1,1,2
+Prague,1,1,2
+Reykjavik,1,1,2
+Veshenskaya,1,1,2
+Athens,0,2,2
+Kraków,0,2,2
+Milan,0,2,2
+Zurich,0,2,2
+Abeokuta,1,0,1
+"Agrigento, Sicily",1,0,1
+Antananarivo,1,0,1
+Aracataca,1,0,1
+Arequipa,1,0,1
+Aurich,1,0,1
+Azinhaga,1,0,1
+Bad Salzbrunn,1,0,1
+Bombay,1,0,1
+Bordeaux,1,0,1
+Buchach,1,0,1
+Calw,1,0,1
+Cape Town,1,0,1
+Casteldàwson,1,0,1
+Castries,1,0,1
+Chaguanas,1,0,1
+Clamecy,1,0,1
+Cologne,1,0,1
+Dolac,1,0,1
+"Duluth, MN",1,0,1
+Farsø,1,0,1
+Fredericia,1,0,1
+Ganzhou,1,0,1
+Gaomi,1,0,1
+Garding,1,0,1
+Gdansk,1,0,1
+Genoa,1,0,1
+Ghent,1,0,1
+Griffen,1,0,1
+Guatemala City,1,0,1
+"Hillsboro, WV",1,0,1
+Hämeenkyrö,1,0,1
+Iria Flavia,1,0,1
+Iráklion,1,0,1
+Istanbul,1,0,1
+Ivano-Frankivsk,1,0,1
+Izmir,1,0,1
+Jämshög,1,0,1
+Kalundborg,1,0,1
+Karlbo,1,0,1
+Kermanshah,1,0,1
+Kingston Hill,1,0,1
+Kislovodsk,1,0,1
+Kobiele Wielkie,1,0,1
+Kvikne,1,0,1
+Kórnik,1,0,1
+Leggiuno-Sangiano,1,0,1
+Leoncin,1,0,1
+Liestal,1,0,1
+Lom,1,0,1
+"Lorain, OH",1,0,1
+Modica,1,0,1
+Moguer,1,0,1
+Mondovi,1,0,1
+Montreal,1,0,1
+Moscow,1,0,1
+Mürzzuschlag,1,0,1
+Nagasaki,1,0,1
+Neuilly-sur-Seine,1,0,1
+"New Albany, MS",1,0,1
+"Nitzkydorf, Banat",1,0,1
+"Nuoro, Sardinia",1,0,1
+"Oak Park, IL",1,0,1
+Olshammar,1,0,1
+Osaka,1,0,1
+Parral,1,0,1
+Pointe-à-Pitre,1,0,1
+Roholte,1,0,1
+Ruse,1,0,1
+"Salinas, CA",1,0,1
+"Sauk Centre, MN",1,0,1
+Sevilla,1,0,1
+Springs,1,0,1
+St. Columb Minor,1,0,1
+"St. Louis, MO",1,0,1
+St. Petersburg,1,0,1
+Sulechów,1,0,1
+Svartbjörnsbyn,1,0,1
+Trelleck,1,0,1
+Uchiko,1,0,1
+Val di Castello,1,0,1
+Vicuña,1,0,1
+Voronezh,1,0,1
+Växjö,1,0,1
+Wingham,1,0,1
+Wola Okrzejska,1,0,1
+Woodstock,1,0,1
+Śeteniai,1,0,1
+Ayot St. Lawrence,0,1,1
+Belgrade,0,1,1
+Bellême,0,1,1
+Bologna,0,1,1
+Bornheim-Merten,0,1,1
+"Boston, MA",0,1,1
+"Brookline, MA",0,1,1
+"Byhalia, MS",0,1,1
+Charlottenburg,0,1,1
+Châtenay,0,1,1
+Copenhagen,0,1,1
+"Danby, VT",0,1,1
+Grimstad,0,1,1
+Gros-Islet,0,1,1
+Helsinki,0,1,1
+"Hempstead, NY",0,1,1
+Jagniatków,0,1,1
+Jena,0,1,1
+Johannesburg,0,1,1
+"Ketchum, ID",0,1,1
+Klotzsche,0,1,1
+Lanzarote,0,1,1
+Lillehammer,0,1,1
+Lucerne,0,1,1
+Montagnola,0,1,1
+Munich,0,1,1
+Naples,0,1,1
+Ordrup,0,1,1
+Penrhyndeudraeth,0,1,1
+Peredelkino,0,1,1
+Perranarworthal,0,1,1
+Presqu'île-de-Giens,0,1,1
+Rehovot,0,1,1
+Roquebrune-Cap-Martin,0,1,1
+Saint-Cyr-sur-Loire,0,1,1
+San Juan,0,1,1
+Santiago,0,1,1
+Sens,0,1,1
+"Surfside, FL",0,1,1
+Sydney,0,1,1
+Troitse-Lykovo,0,1,1
+Vevey,0,1,1
+Vézelay,0,1,1
+Warsaw,0,1,1
+Zushi,0,1,1
+Övralid,0,1,1
