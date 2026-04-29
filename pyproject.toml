@@ -1,0 +1,13 @@
+[project]
+name = "huma-1678-final-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "dataclasses>=0.8",
+    "google-genai>=1.73.1",
+    "pandas>=3.0.2",
+    "python-dotenv>=1.2.2",
+    "wikipedia>=1.4.0",
+]

@@ -1,0 +1,103 @@
+NameError: name 'exception' is not defined. Did you mean: 'Exception'?
+(huma-1678-final-project) PS C:\Users\Mahir Daiyan\Desktop\huma1678\final_project\HUMA_1678_Final_Project\python_scripts> python main.py
+Processing https://en.wikipedia.org/wiki/Gao_Xingjian...
+{'translators': [{'name': 'Mabel Lee', 'link': None}, {'name': 'Gilbert Fong', 'link': None}, {'name': 'Noel Dutrait', 'link': None}, {'name': 'Claire Conceison', 'link': None}], 'publishers': [{'name': 'HarperCollins Australia', 'link': None}, {'name': 'Chinese University Press', 'link': None}, {'name': 'Yale University Press', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/V._S._Naipaul...
+Error processing https://en.wikipedia.org/wiki/V._S._Naipaul: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'André Deutsch', 'link': None}, {'name': 'New Statesman', 'link': None}, {'name': 'Alfred A. Knopf', 'link': None}, {'name': 'Little, Brown and Company', 'link': None}, {'name': 'Sylvester & Orphanos', 'link': None}, {'name': 'The New Yorker', 'link': None}, {'name': 'The New York Review of Books', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Imre_Kertész...
+{'translators': [{'name': 'Christopher C. Wilson', 'link': None}, {'name': 'Katharina M. Wilson', 'link': None}, {'name': 'Tim Wilkinson', 'link': None}], 'publishers': [{'name': 'Northwestern University Press', 'link': None}, {'name': 'Vintage International', 'link': None}, {'name': 'Melville House Publishing', 'link': None}, {'name': 'Harvill Secker', 'link': None}, {'name': 'Hydra Books', 'link': None}, {'name': 'Knopf', 'link': None}, {'name': 'Svante Weyler', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/J._M._Coetzee...
+Error processing https://en.wikipedia.org/wiki/J._M._Coetzee: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'Princeton University Press', 'link': None}, {'name': 'Text Publishing', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Elfriede_Jelinek...
+{'translators': [{'name': 'Martin Chalmers', 'link': None}, {'name': 'Michael Hulse', 'link': None}, {'name': 'Joachim Neugroschel', 'link': None}, {'name': 'Gitta Honegger', 'link': None}, {'name': 'Penny Black', 'link': None}, {'name': 'Lillian Banks', 'link': None}, {'name': 'Damion Searls', 'link': None}, {'name': 'Lilian Friedberg', 'link': None}], 'publishers': [{'name': 'Rhombus Verlag', 'link': None}, {'name': 'Rowohlt', 'link': None}, {'name': "Serpent's Tail", 'link': None}, {'name': 'Weidenfeld & Nicolson', 'link': None}, {'name': 'Yale', 'link': None}, {'name': 'Fitzcarraldo Editions', 'link': None}, {'name': 'Oberon Books', 'link': None}, {'name': 'Sylph Editions', 'link': None}, {'name': 'Seagull Books', 'link': None}, {'name': 'New Directions', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Harold_Pinter...
+{'translators': [{'name': 'Jean Pavans', 'link': None}], 'publishers': [{'name': 'Hackney Downs School Magazine', 'link': None}, {'name': 'Poetry London', 'link': None}, {'name': 'Methuen', 'link': None}, {'name': 'Eyre Methuen', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Orhan_Pamuk...
+Error processing https://en.wikipedia.org/wiki/Orhan_Pamuk: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Victoria Holbrook', 'link': None}, {'name': 'Güneli Gün', 'link': None}, {'name': 'Maureen Freely', 'link': None}, {'name': 'Erdağ M. Göknar', 'link': None}, {'name': 'Robert Finn', 'link': None}, {'name': 'Ekin Oklap', 'link': None}], 'publishers': [{'name': 'Carcanet Press Limited', 'link': None}, {'name': 'George Braziller', 'link': None}, {'name': 'Farrar, Straus & Giroux', 'link': None}, {'name': 'Alfred A. Knopf', 'link': None}, {'name': 'Faber & Faber', 'link': None}, {'name': 'Karacan Yayınları', 'link': None}, {'name': 'Can Yayınları', 'link': None}, {'name': 'İletişim Yayınları', 'link': None}, {'name': 'Yapı Kredi Publications', 'link': None}, {'name': 'Yapı Kredi Yayınları', 'link': None}, {'name': 'Harvard University Press', 'link': None}, {'name': 'Steidl Publisher', 'link': None}, {'name': 'Jumhoori Publications', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Doris_Lessing...
+Error processing https://en.wikipedia.org/wiki/Doris_Lessing: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'Michael Joseph', 'link': None}, {'name': 'Alfred A. Knopf', 'link': None}, {'name': 'Viking Books', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/J._M._G._Le_Clézio...
+{'translators': [{'name': 'Daphne Woodward', 'link': None}, {'name': 'Peter Green', 'link': None}, {'name': 'Barbara Bray', 'link': None}, {'name': 'Simon Watson-Taylor', 'link': None}, {'name': 'C. Dickson', 'link': None}, {'name': 'Carol Marks', 'link': None}, {'name': 'Alison Anderson', 'link': None}, {'name': 'Christophe Brunski', 'link': None}, {'name': 'Teresa Lavender Fagan', 'link': None}, {'name': 'Julia Abramson', 'link': None}, {'name': 'Ralph Schoolcraft', 'link': None}], 'publishers': [{'name': 'Seagull Books', 'link': None}, {'name': 'David R. Godine', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Herta_Müller...
+{'translators': [{'name': 'Sieglinde Lug', 'link': None}, {'name': 'Martin Chalmers', 'link': None}, {'name': 'Valentina Glajar', 'link': None}, {'name': 'Andre Lefevere', 'link': None}, {'name': 'Philip Boehm', 'link': None}, {'name': 'Michael Hofmann', 'link': None}, {'name': 'Michael Hulse', 'link': None}, {'name': 'Kate McNaughton', 'link': None}, {'name': 'Geoffrey Mulligan', 'link': None}], 'publishers': [{'name': 'University of Nebraska Press', 'link': None}, {'name': "Serpent's Tail", 'link': None}, {'name': 'Hydra Books', 'link': None}, {'name': 'Northwestern University Press', 'link': None}, {'name': 'Metropolitan Books', 'link': None}, {'name': 'Henry Holt and Company', 'link': None}, {'name': 'Picador', 'link': None}, {'name': 'Rowohlt', 'link': None}, {'name': 'Carl Hanser Verlag', 'link': None}, {'name': 'Polirom', 'link': None}, {'name': 'Seagull Books', 'link': None}, {'name': 'Portobello', 'link': None}, {'name': 'Journal', 'link': None}, {'name': 'Umbrage Editions', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Mario_Vargas_Llosa...
+{'translators': [], 'publishers': []}
+Processing https://en.wikipedia.org/wiki/Tomas_Tranströmer...
+Error processing https://en.wikipedia.org/wiki/Tomas_Tranströmer: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Robin Fulton', 'link': None}, {'name': 'Robert Bly', 'link': None}, {'name': 'May Swenson', 'link': None}, {'name': 'Leif Sjoberg', 'link': None}, {'name': 'Samuel Charters', 'link': None}, {'name': 'John F. Deane', 'link': None}, {'name': 'Robin Robertson', 'link': None}, {'name': 'Michael McGriff', 'link': None}, {'name': 'Mikaela Grassl', 'link': None}, {'name': 'Patty Crane', 'link': None}, {'name': 'Milan Richter', 'link': None}, {'name': 'J. Bernlef', 'link': None}, {'name': 'Jacques Outin', 'link': None}, {'name': 'Hanns Grössel', 'link': None}, {'name': 'Galit Hasan-Rokem', 'link': None}, {'name': 'Maria Cristina Lombardi', 'link': None}, {'name': 'Eiko Duke-Soei', 'link': None}, {'name': 'Morteza Saghafian', 'link': None}, {'name': 'Leonard Neuger', 'link': None}, {'name': 'Dan Shafran', 'link': None}, {'name': 'Roberto Mascaró', 'link': None}, {'name': 'Robert Archambeau', 'link': None}, {'name': 'Lars-Håkan Svensson', 'link': None}], 'publishers': [{'name': 'Bonniers', 'link': None}, {'name': 'Författarförlaget', 'link': None}, {'name': 'Edition Edda', 'link': None}, {'name': 'Seventies Press', 'link': None}, {'name': 'London Magazine Editions', 'link': None}, {'name': 'University of Pittsburgh Press', 'link': None}, {'name': 'Penguin', 'link': None}, {'name': 'Oyez', 'link': None}, {'name': 'Tavern Books', 'link': None}, {'name': 'Oasis Books', 'link': None}, {'name': 'Ardis Publishers', 'link': None}, {'name': 'Thunder City Press', 'link': None}, {'name': 'Dedalus Press', 'link': None}, {'name': 'Bloodaxe Books', 'link': None}, {'name': 'Ecco Press', 'link': None}, {'name': 'Dufour Editions', 'link': None}, {'name': 'HarperCollins', 'link': None}, {'name': 'Graywolf Press', 'link': None}, {'name': 'Enitharmon Press', 'link': None}, {'name': 'New Directions', 'link': None}, {'name': 'Green Integer', 'link': None}, {'name': 'Farrar, Straus and Giroux', 'link': None}, {'name': 'Sarabande Books', 'link': None}, {'name': 'Copper Canyon Press', 'link': None}, {'name': 'Polirom', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Mo_Yan...
+{'translators': [{'name': 'Howard Goldblatt', 'link': None}], 'publishers': [{'name': 'Lian Chi', 'link': None}, {'name': "People's Literature", 'link': None}, {'name': 'Trinity University Press', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Alice_Munro...
+Error processing https://en.wikipedia.org/wiki/Alice_Munro: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'Douglas Gibson', 'link': None}, {'name': 'Macmillan of Canada', 'link': None}, {'name': 'Douglas Gibson Books', 'link': None}, {'name': 'McClelland & Stewart', 'link': None}, {'name': 'The Atlantic Monthly', 'link': None}, {'name': 'Grand Street', 'link': None}, {'name': "Harper's Magazine", 'link': None}, {'name': 'Mademoiselle', 'link': None}, {'name': 'The New Yorker', 'link': None}, {'name': 'Narrative Magazine', 'link': None}, {'name': 'The Paris Review', 'link': None}, {'name': 'Vintage', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Patrick_Modiano...
+Error processing https://en.wikipedia.org/wiki/Patrick_Modiano: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Frank Wynne', 'link': None}, {'name': 'Patricia Wolf', 'link': None}, {'name': 'Caroline Hillier', 'link': None}, {'name': 'John Cullen', 'link': None}, {'name': 'Mark Polizzotti', 'link': None}, {'name': 'Daniel Weissbort', 'link': None}, {'name': 'Damion Searls', 'link': None}, {'name': 'Anthea Bell', 'link': None}, {'name': 'William Rodarmor', 'link': None}, {'name': 'Barbara Wright', 'link': None}, {'name': 'Jordan Stump', 'link': None}, {'name': 'Joanna Kilmartin', 'link': None}, {'name': 'Penny Hueston', 'link': None}, {'name': 'Phoebe Weston-Evans', 'link': None}, {'name': 'Euan Cameron', 'link': None}, {'name': 'Chris Clarke', 'link': None}], 'publishers': [{'name': 'Éditions Gallimard', 'link': None}, {'name': 'Bloomsbury', 'link': None}, {'name': 'Alfred A. Knopf', 'link': None}, {'name': 'Gollancz', 'link': None}, {'name': 'Other Press', 'link': None}, {'name': 'Yale University Press', 'link': None}, {'name': 'Jonathan Cape', 'link': None}, {'name': 'New York Review Books', 'link': None}, {'name': 'Aidan Ellis', 'link': None}, {'name': 'David R. Godine', 'link': None}, {'name': 'Harvill', 'link': None}, {'name': 'HarperCollins', 'link': None}, {'name': 'Bison Books', 'link': None}, {'name': 'University of California Press', 'link': None}, {'name': 'Random House', 'link': None}, {'name': 'Harvill Press', 'link': None}, {'name': 'Quercus', 'link': None}, {'name': 'Mariner Books', 'link': None}, {'name': 'Houghton Mifflin Harcourt', 'link': None}, {'name': 'Viking', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Svetlana_Alexievich...
+{'translators': [{'name': 'Richard Pevear', 'link': None}, {'name': 'Larissa Volokhonsky', 'link': None}, {'name': 'Julia Whitby', 'link': None}, {'name': 'Robin Whitby', 'link': None}, {'name': 'Andrew Bromfield', 'link': None}, {'name': 'Keith Gessen', 'link': None}, {'name': 'Anna Gunin', 'link': None}, {'name': 'Arch Tait', 'link': None}, {'name': 'Bela Shayevich', 'link': None}], 'publishers': [{'name': 'Oktyabr', 'link': None}, {'name': 'Mastatskaya litaratura', 'link': None}, {'name': 'Raduga Publishers', 'link': None}, {'name': 'Progress Publishers', 'link': None}, {'name': 'Random House', 'link': None}, {'name': 'Molodaya Gvardiya', 'link': None}, {'name': 'W W Norton', 'link': None}, {'name': 'Penguin Modern Classics', 'link': None}, {'name': 'Ostozhye', 'link': None}, {'name': 'Dalkey Archive Press', 'link': None}, {'name': 'Vremia', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Bob_Dylan...
+Error processing https://en.wikipedia.org/wiki/Bob_Dylan: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'Columbia Records', 'link': None}, {'name': 'Macmillan', 'link': None}, {'name': 'Asylum Records', 'link': None}, {'name': 'Simon & Schuster', 'link': None}, {'name': 'Random House', 'link': None}, {'name': 'Leeds Music', 'link': None}, {'name': 'Witmark Music', 'link': None}, {'name': 'Universal Music Publishing Group', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Kazuo_Ishiguro...
+Error processing https://en.wikipedia.org/wiki/Kazuo_Ishiguro: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+Error processing https://en.wikipedia.org/wiki/Kazuo_Ishiguro: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [], 'publishers': [{'name': 'Faber and Faber', 'link': None}, {'name': 'Granta', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Olga_Tokarczuk...
+{'translators': [{'name': 'Antonia Lloyd-Jones', 'link': None}, {'name': 'Jennifer Croft', 'link': None}], 'publishers': [{'name': 'Ruta', 'link': None}, {'name': 'Znak', 'link': None}, {'name': 'Fitzcarraldo Editions', 'link': None}, {'name': 'Twisted Spoon Press', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Peter_Handke...
+Error processing https://en.wikipedia.org/wiki/Peter_Handke: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Scott Abbott', 'link': None}], 'publishers': [{'name': 'Verlag der Autoren', 'link': None}, {'name': 'Suhrkamp Verlag', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Louise_Glück...
+{'translators': [], 'publishers': [{'name': 'The New American Library', 'link': None}, {'name': 'The Ecco Press', 'link': None}, {'name': 'Farrar, Straus and Giroux', 'link': None}, {'name': 'Carcanet Press', 'link': None}, {'name': 'Antaeus Editions', 'link': None}, {'name': 'Sarabande Books', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Abdulrazak_Gurnah...
+{'translators': [{'name': 'Dr Ida Hadjivayanis', 'link': None}], 'publishers': [{'name': 'Riverhead Books', 'link': None}, {'name': 'Cambridge University Press', 'link': None}, {'name': 'Heinemann Educational Books', 'link': None}, {'name': 'Anchor Books', 'link': None}, {'name': 'Royal Borough of Kensington & Chelsea', 'link': None}, {'name': 'Granta Books', 'link': None}, {'name': 'Comma Press', 'link': None}, {'name': 'Indiana University Press', 'link': None}, {'name': 'D. S. Brewer', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Annie_Ernaux...
+Error processing https://en.wikipedia.org/wiki/Annie_Ernaux: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Alison L. Strayer', 'link': None}, {'name': 'Carol Sanders', 'link': None}, {'name': 'Christopher Beach', 'link': None}, {'name': 'Carrie Noland', 'link': None}, {'name': 'Linda Coverdale', 'link': None}, {'name': 'Tanya Leslie', 'link': None}, {'name': 'Jonathan Kaplansky', 'link': None}, {'name': 'Anna Moschovakis', 'link': None}], 'publishers': [{'name': 'Fitzcarraldo Editions', 'link': None}, {'name': 'Seven Stories Press', 'link': None}, {'name': 'Gallimard', 'link': None}, {'name': 'Dalkey Archive Press', 'link': None}, {'name': 'French & European Publications, Incorporated', 'link': None}, {'name': 'University of Nebraska Press', 'link': None}, {'name': 'Four Walls Eight Windows', 'link': None}, {'name': 'Distribooks Inc', 'link': None}, {'name': 'Psychology Press', 'link': None}, {'name': 'Quartet Books', 'link': None}, {'name': "L'Orma", 'link': None}, {'name': 'Nil', 'link': None}, {'name': 'éditions des Busclats', 'link': None}, {'name': 'éditions du Mauconduit', 'link': None}, {'name': 'Seuil', 'link': None}, {'name': 'Yale University Press', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Jon_Fosse...
+Error processing https://en.wikipedia.org/wiki/Jon_Fosse: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'Grethe Fatima Syéd', 'link': None}, {'name': 'Mohammad Hamed', 'link': None}, {'name': 'Sarah Cameron Sunde', 'link': None}, {'name': 'Damion Searls', 'link': None}, {'name': 'May-Brit Akerholt', 'link': None}, {'name': 'Grethe Kvernes', 'link': None}, {'name': 'Eric Dickens', 'link': None}], 'publishers': [{'name': 'Samlaget', 'link': None}, {'name': 'Dalkey Archive', 'link': None}, {'name': 'Fitzcarraldo Editions', 'link': None}, {'name': 'Transit Books', 'link': None}, {'name': 'Skald', 'link': None}, {'name': 'Shift Fox Press', 'link': None}, {'name': 'Jacques Testard', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/Han_Kang...
+{'translators': [{'name': 'Deborah Smith', 'link': None}, {'name': 'Emily Yae Won', 'link': None}, {'name': 'Paige Aniyah Morris', 'link': None}], 'publishers': [{'name': 'Portobello Books', 'link': None}, {'name': 'Adelphi Edizioni', 'link': None}, {'name': 'Hogarth', 'link': None}, {'name': 'Moonji', 'link': None}, {'name': 'Munhakdongne', 'link': None}, {'name': 'Changbi', 'link': None}, {'name': 'Nanda', 'link': None}, {'name': 'Yolimwon', 'link': None}, {'name': 'Bichae', 'link': None}]}
+Processing https://en.wikipedia.org/wiki/László_Krasznahorkai...
+Error processing https://en.wikipedia.org/wiki/László_Krasznahorkai: Expecting value: line 1 column 1 (char 0)
+Pause for 10s
+Trying again now
+{'translators': [{'name': 'George Szirtes', 'link': None}, {'name': 'Ottilie Mulzet', 'link': None}, {'name': 'John Batki', 'link': None}, {'name': 'Eszter Molnár', 'link': None}], 'publishers': [{'name': 'Mozgó Világ', 'link': None}, {'name': 'Magvető', 'link': None}, {'name': 'New Directions', 'link': None}, {'name': 'Quartet Books', 'link': None}, {'name': 'Széphalom', 'link': None}, {'name': 'Seagull Books', 'link': None}, {'name': 'Sylph Editions', 'link': None}, {'name': 'The Hungarian Quarterly', 'link': None}]}
+Processing complete!
+
+
+
+
+
+
