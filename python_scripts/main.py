@@ -177,7 +177,7 @@ JSON OUTPUT:
 
         # Use self.RESPONSE_PATH since it's a class variable
         with open(self.RESPONSE_PATH, "w", encoding="utf-8") as f:
-            json.dump(self.data, f, indent=4)
+            json.dump(self.data, f, ensure_ascii=False, indent=4)
 
         print("Processing complete!")
 
